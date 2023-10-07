@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://soroked.github.io/project-of-futureJS-seniors",
+  "homepage": "https://cherviakow.github.io/project-of-futureJS-seniors",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /project-of-futureJS-seniors/"
